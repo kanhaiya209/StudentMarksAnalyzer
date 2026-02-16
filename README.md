@@ -1,4 +1,3 @@
-===========================================================
 📘 PROJECT: Student Marks Analyzer (All-in-One File)
 👨‍💻 Language: Java (Core)
 🎯 Level: Beginner to Intermediate
