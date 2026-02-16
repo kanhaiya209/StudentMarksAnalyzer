@@ -1,7 +1,6 @@
 📘 PROJECT: Student Marks Analyzer (All-in-One File)
 👨‍💻 Language: Java (Core)
 🎯 Level: Beginner to Intermediate
-===========================================================
 
 📌 DESCRIPTION:
 This is a console-based Java application that analyzes
@@ -16,7 +15,6 @@ The program follows a clean software architecture:
 2. Processing Phase
 3. Output Phase
 
-===========================================================
 🚀 FEATURES:
 ✔ Dynamic number of students input
 ✔ Name & Marks storage using Arrays
@@ -26,7 +24,6 @@ The program follows a clean software architecture:
 ✔ Maintains correct Student ↔ Marks mapping
 ✔ Prevents invalid inputs and runtime crashes
 
-===========================================================
 🧠 CONCEPTS USED:
 - Arrays
 - Loops (for, while)
@@ -36,7 +33,6 @@ The program follows a clean software architecture:
 - Defensive Programming
 - Data Processing (Min, Max, Avg)
 
-===========================================================
 🎓 GRADING CRITERIA:
 90 - 100  → Grade A
 80 - 89   → Grade B
@@ -44,8 +40,6 @@ The program follows a clean software architecture:
 60 - 69   → Grade D
 Below 60  → Fail
 
-===========================================================
 ▶ HOW TO RUN:
 1. Compile: javac StudentMarksAnalyzer.java
 2. Run:    java StudentMarksAnalyzer
-===========================================================
